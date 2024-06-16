@@ -1,7 +1,7 @@
 
 # Mi Agenda Digital con LocalStorage
 
-Este proyecto es una pequeña aplicación web que permite a los usuarios agregar, ver y eliminar notas. Las notas se almacenan en el localStorage del navegador en formato JSON, lo que permite que las notas persistan incluso después de cerrar y volver a abrir la página.
+Este proyecto es una pequeña aplicación web para gestionar tus actividades diarias. Te permite agregar, ver y eliminar notas. Las notas se almacenan en el localStorage del navegador en formato JSON, lo que permite que las notas persistan incluso después de cerrar y volver a abrir la página.
 
 ## Funcionalidades
 
